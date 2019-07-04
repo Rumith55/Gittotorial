@@ -1,6 +1,8 @@
-my first github file
-hjhtrjhjjhijh itijhmhmbn itijbm  
-jmgjtjhkkg
-huiuthg\j\\jdihrhg\\\
+Task 1
 
-ihgiihtn iihkg;oytrf  vv
+Create a directory RapidApplicationDevelopment
+
+Go to the directory RapidApplicationDevelopment
+
+Create anther directory Modulel
+
